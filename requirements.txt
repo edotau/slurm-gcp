@@ -1,17 +1,46 @@
+attrs @ file:///home/conda/feedstock_root/build_artifacts/attrs_1620387926260/work
+backports.functools-lru-cache @ file:///home/conda/feedstock_root/build_artifacts/backports.functools_lru_cache_1618230623929/work
 brotlipy==0.7.0
-certifi==2020.6.20
+certifi==2021.5.30
 cffi @ file:///tmp/build/80754af9/cffi_1605538068321/work
 chardet @ file:///tmp/build/80754af9/chardet_1605303185383/work
-conda==4.9.2
+click @ file:///home/conda/feedstock_root/build_artifacts/click_1621503718520/work
+colorama @ file:///home/conda/feedstock_root/build_artifacts/colorama_1602866480661/work
+commonmark==0.9.1
+conda==4.10.3
 conda-package-handling @ file:///tmp/build/80754af9/conda-package-handling_1603018141399/work
 cryptography @ file:///tmp/build/80754af9/cryptography_1605544487601/work
+future @ file:///home/conda/feedstock_root/build_artifacts/future_1610147327521/work
+gitdb @ file:///home/conda/feedstock_root/build_artifacts/gitdb_1616781027402/work
+GitPython @ file:///home/conda/feedstock_root/build_artifacts/gitpython_1623994295351/work
 idna @ file:///tmp/build/80754af9/idna_1593446292537/work
+importlib-metadata @ file:///home/conda/feedstock_root/build_artifacts/importlib-metadata_1624799398687/work
+itsdangerous @ file:///home/conda/feedstock_root/build_artifacts/itsdangerous_1621360792037/work
+Jinja2 @ file:///home/conda/feedstock_root/build_artifacts/jinja2_1612119311452/work
+jsonschema @ file:///home/conda/feedstock_root/build_artifacts/jsonschema_1614815863336/work
+MarkupSafe @ file:///home/conda/feedstock_root/build_artifacts/markupsafe_1602267312178/work
+nf-core @ file:///opt/conda/conda-bld/nf-core_1620760041893/work
+packaging @ file:///home/conda/feedstock_root/build_artifacts/packaging_1612459636436/work
+prompt-toolkit @ file:///home/conda/feedstock_root/build_artifacts/prompt-toolkit_1623977816122/work
 pycosat==0.6.3
 pycparser @ file:///tmp/build/80754af9/pycparser_1594388511720/work
+Pygments @ file:///home/conda/feedstock_root/build_artifacts/pygments_1620245170812/work
 pyOpenSSL @ file:///tmp/build/80754af9/pyopenssl_1605545627475/work
+pyparsing==2.4.7
+pyrsistent @ file:///home/conda/feedstock_root/build_artifacts/pyrsistent_1605115595652/work
 PySocks @ file:///tmp/build/80754af9/pysocks_1605305779399/work
+PyYAML==5.3.1
+questionary @ file:///home/conda/feedstock_root/build_artifacts/questionary_1608486389347/work
 requests @ file:///tmp/build/80754af9/requests_1592841827918/work
+requests-cache @ file:///home/conda/feedstock_root/build_artifacts/requests-cache_1622856218455/work
+rich @ file:///home/conda/feedstock_root/build_artifacts/rich_1624055703853/work
 ruamel-yaml==0.15.87
 six @ file:///tmp/build/80754af9/six_1605205327372/work
+smmap @ file:///home/conda/feedstock_root/build_artifacts/smmap_1611376390914/work
+tabulate @ file:///home/conda/feedstock_root/build_artifacts/tabulate_1614001031686/work
 tqdm @ file:///tmp/build/80754af9/tqdm_1605303662894/work
+typing-extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1622748266870/work
+url-normalize @ file:///home/conda/feedstock_root/build_artifacts/url-normalize_1619201332663/work
 urllib3 @ file:///tmp/build/80754af9/urllib3_1603305693037/work
+wcwidth @ file:///home/conda/feedstock_root/build_artifacts/wcwidth_1600965781394/work
+zipp @ file:///home/conda/feedstock_root/build_artifacts/zipp_1614945704755/work
