@@ -8,3 +8,4 @@ channels:
 dependencies:
   - nextflow=20.01.0
   - terraform=1.0.1
+  - nf-core=1.14
