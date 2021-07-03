@@ -1,7 +1,7 @@
-# Set the base image to debian jessie
-FROM python:3.8
-
+FROM ubuntu:latest
 USER root
+RUN apt-get install python3 python3-pip -y
+RUN pip3 install pysam
 
 RUN apt-get update && apt-get install --yes --no-install-recommends \
     wget \
