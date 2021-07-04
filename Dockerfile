@@ -1,7 +1,6 @@
-FROM ubuntu:latest
+FROM python:3.8
+
 USER root
-RUN apt-get install python3 python3-pip -y
-RUN pip3 install pysam
 
 RUN apt-get update && apt-get install --yes --no-install-recommends \
     wget \
@@ -17,7 +16,6 @@ RUN apt-get update && apt-get install --yes --no-install-recommends \
     && rm -rf /var/lib/apt/lists/*
 
 RUN apt-get update && apt-get install -y curl
-
 ENV NXF_VER=20.01.0
 ENV NXF_MODE=google
 
@@ -36,3 +34,6 @@ COPY environment.yml /
 RUN conda env create -f environment.yml
 
 ENV PATH=$PATH:/root/miniconda3/envs/nextflow-gcp/bin
+RUN pip3 install pysam 
+RUN pip3 install biopython
+
