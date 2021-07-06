@@ -1,6 +1,7 @@
 cluster_name: bli-cluster
 
-project: robotnik
+project: edotau-bli-gcp
+
 zone: us-west1-b
 
 external_compute_ips: false
